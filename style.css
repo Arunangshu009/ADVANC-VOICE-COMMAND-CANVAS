@@ -1,0 +1,21 @@
+body
+{
+	text-align: center;
+	background-image: -webkit-linear-gradient(132deg, #ffcc00 30%, #000000 49%, #00ffcc 70%);
+background-image: -moz-linear-gradient(132deg, #ffcc00 30%, #000000 49%, #00ffcc 70%);
+background-image: -o-linear-gradient(132deg, #ffcc00 30%, #000000 49%, #00ffcc 70%);
+background-image: linear-gradient(132deg, #ffcc00 30%, #000000 49%, #00ffcc 70%);
+
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: rgb(255, 255, 255);
+	border-width: 20px;
+	border-radius: 20px;
+	border-style: groove;
+}
